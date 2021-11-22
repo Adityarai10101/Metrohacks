@@ -1,0 +1,7 @@
+Keras used.
+Segmentation_models library used - https://segmentation-models.readthedocs.io/en/latest/index.html
+PIL used.
+
+Trained on the MICCAI Foot Ulcer Segmentation Challenge
+
+Developed by Aditya Rai, Kayley Vu, and Joshua Li for Metrohacks 2021
